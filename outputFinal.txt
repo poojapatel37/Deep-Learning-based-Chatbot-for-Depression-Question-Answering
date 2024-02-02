@@ -1,0 +1,912 @@
+<Q> what is depression </Q> <A> clinical depression is a serious condition that negatively affects how a person thinks  feels  and behaves  in contrast to normal sadness  clinical depression is persistent  often interferes with a person’s ability to experience or anticipate pleasure  and significantly interferes with functioning in daily life  untreated  symptoms can last for weeks  months  or years  and if inadequately treated  depression can lead to significant impairment  other health related issues  and in rare cases  suicide </A> 
+<Q> what are some of the signs and symptoms of depression </Q> <A> a person is diagnosed with a major depression when he or she experiences at least five of the symptoms listed below for two consecutive weeks  at least one of the five symptoms must be either  1  depressed mood or  2  loss of interest or pleasure symptoms include 
+•	depressed mood most of the day  nearly every day
+•	markedly diminished interest or pleasure in activities most of the day  nearly every day
+•	changes in appetite that result in weight losses or gains unrelated to dieting
+•	changes in sleeping patterns
+•	loss of energy or increased fatigue
+•	restlessness or irritability
+•	feelings of anxiety
+•	feelings of worthlessness  helplessness  or hopelessness
+•	inappropriate guilt
+•	difficulty thinking  concentrating  or making decisions
+•	thoughts of death or attempts at suicide
+</A> 
+<Q>how is depression diagnosed and treated</Q>
+ <A>the first step to being diagnosed is to visit a doctor for a medical evaluation  certain medications  and some medical conditions such as thyroid disorder  can cause similar symptoms as depression  a doctor can rule out these possibilities by conducting a physical examination  interview and lab tests  if the doctor eliminates a medical condition as a cause  he or she can implement treatment or refer the patient to a mental health professional 
+once diagnosed  a person with depression can be treated by various methods  the mainstays of treatment for depression are any of a number of antidepressant medications and psychotherapy  which can also be used in combination 
+for severe  treatment resistant depression  studies have been done showing deep brain stimulation may be an option 
+</A> 
+<Q>why is depression more prevalent in women than in men</Q>
+<A> depression is twice as common among women as among men  about 20 percent of women will experience at least one episode of depression across their lifetime  scientists are examining many potential causes for and contributing factors to women’s increased risk for depression  biological  life cycle  hormonal and psychosocial factors unique to women may be linked to women’s higher depression rates  researchers have shown  for example  that hormones affect brain chemistry  impacting emotions and mood 
+before adolescence  girls and boys experience depression at about the same frequency  by adolescence  however  girls become more likely to experience depression than boys  research points to several possible reasons for this imbalance  the biological and hormonal changes that occur during puberty likely contribute to the sharp increase in rates of depression among adolescent girls  in addition  research has suggested that girls are more likely than boys to continue feeling bad after experiencing difficult situations or events  suggesting they are more prone to depression 
+</A> 
+<Q>what is postpartum depression  ppd</Q> 
+ <A>women are particularly vulnerable to depression after giving birth  when hormonal and physical changes and the new responsibility of caring for a newborn can be overwhelming  many new mothers experience a brief episode of mild mood changes known as the “baby blues ” these symptoms usually dissipate by the 10th day  ppd lasts much longer than 10 days  and can go on for months following child birth  acute ppd is a much more serious condition that requires active treatment and emotional support for the new mother  some studies suggest that women who experience ppd often have had prior depressive episodes 
+</A> 
+<Q>what happens during menopause with regards to the brain and depression</Q>
+ <A>menopause is defined as the state of an absence of menstrual periods for 12 months  menopause is the point at which estrogen and progesterone production decreases permanently to very low levels  the ovaries stop producing eggs and a woman is no longer able to get pregnant naturally  during the transition into menopause  some women experience an increased risk for depression  scientists are exploring how the cyclical rise and fall of estrogen and other hormones may affect the brain chemistry that is associated with depressive illness 
+</A> 
+<Q>what about depression later in life</Q>
+ <A>for older adults who experience depression for the first time later in life  other factors  such as changes in the brain or body  may be at play  for example  older adults may suffer from restricted blood flow  a condition called ischemia  over time  blood vessels become less flexible  they may harden and prevent blood from flowing normally to the body’s organs  including the brain  if this occurs  an older adult with no family or personal history of depression may develop what some doctors call “vascular depression ” those with vascular depression also may be at risk for a coexisting cardiovascular illness  such as heart disease or a stroke 
+</A> 
+<Q>what efforts are underway to improve treatment of depression</Q> 
+<A> researchers are looking for ways to better understand  diagnose and treat depression among all groups of people  studying strategies to personalize care for depression  such as identifying characteristics of the person that predict which treatments are more likely to work  is an important goal 
+</A> 
+<Q>what is the most promising recent development to treat depression</Q>
+ <A>the ability of ketamine to produce a rapid and efficacious antidepressant response by a completely novel mechanism is considered by many experts the most important finding in the depression field in 50 years  originally developed as an anesthetic  ketamine is an antagonist of the nmda receptor on a subset of brain cells  it often produces rapid  within hours  antidepressant actions in patients who have failed to respond to conventional antidepressants  i e   are considered treatment resistant   ketamine is psychoactive and has potentially dangerous side effects  it has a past history of being abused as a street drug  studies aimed at characterizing the mechanisms by which ketamine works rapidly and effectively in severely depressed individuals is likely to lead to novel targets and agents that are safer and more long lasting  and could revolutionize the treatment of depression  numerous bbrf grants support this work  including a number that are attempting to develop ketamine analogs – compounds that act like ketamine but lack its side effects 
+</A> 
+<Q>what is treatment resistant depression</Q>
+<A> treatment resistant depression  trd  is a term used in clinical psychiatry to describe cases of major depressive disorder that do not respond to standard treatments  at least two courses of antidepressant treatments   for many people  antidepressant treatment and or ‘talk’ therapy  such as cognitive behavioral therapy  ease symptoms of depression  but with treatment resistant depression  little to no relief is realized  treatment resistant depression symptoms can range from mild to severe and may require trying a number of approaches to identify what helps 
+</A> 
+<Q>how can treatment resistant depression be treated</Q>
+ <A>treatment of resistant depression has most commonly been treated with electroconvulsive therapy  ect   ect has been modified to avoid the pain previously associated with it and is the most effective and quick acting treatment for resistant depression  the downside is that it works by inducing brain seizures and can impair memory  its therapeutic benefits can also fade over time  new methods of brain stimulation also offer the possibility of relief  these technologies exploit the fact that the brain is an electrical organ  it responds to electrical and magnetic stimulation to modulate brain circuits and change brain activity  repetitive transcranial magnetic stimulation  rtms   pioneered by dr  mark george with the support of narsad grants  was approved by the fda in 2008 as a treatment for some otherwise untreatable depressions  rtms is a noninvasive method that works through a coil held over the target area of the brain  a magnetic field passes through the skull to activate the appropriate brain circuit and no seizures are induced  deep brain stimulation  dbs   a technique adapted for treating depression by dr  helen mayberg with the support of narsad grants  works through electrodes planted deep in the brain  another method  vagus nerve stimulation  vns   stimulates the vagus nerve in the neck to therapeutically activate brain function  magnetic seizure therapy  mst  combines rtms and ect to achieve a safer form of seizure therapy  mst has been supported through narsad grants to dr  sarah lisanby  recently  foundation grantees at the university of pittsburgh have successfully experimented on a small number of patients with treatment resistant depression  discovering underlying metabolic deficiencies and successfully treating these  in one subset of patients  a deficiency in cerebral folate was addressed by administering folinic acid  patients’ depression symptoms declined significantly when these metabolic problems were treated  for some individuals  depression reached remission 
+</A> 
+<Q>what ideas are on the horizon for better  more effective ways to treat depression</Q>
+<A> the first attempts at defining depression as a biologically based illness hinged on a theory of a ‘chemical imbalance’ in the brain  it was thought that too much or too little of essential signal transmitting chemicals—neurotransmitters—were present in the brain  this idea has been useful—that the brain is a kind of chemical soup in which there may be too much dopamine or too little serotonin  but it is now begin replaced by much more sophisticated knowledge about how the brain works  made possible by basic research  all the current antidepressants were developed during the period when the chemical soup theory was in vogue  but now  many researchers are looking to understand in greater detail the brain biology that underlies depression’s symptoms so that novel therapies can be found 
+throughout this website you will find ideas for new depression treatments in greater detail  efforts to create new classes of antidepressants  based on novel targets have borne fruit  a docking port on brain cells called the mu opioid receptor is the focus of one such effort  other efforts focus not on the serotonin pathway  as do current “ssri” drugs such as prozac  but another pathway  that of another key neurotransmitter  called glutamate  a previously obscure brain area called the lateral habenula may be involved in depression pathology in some instances  due to glutamate hyperactivity  a drug able to specifically lower the activity in that region is a plausible drug discovery objective  other researchers have been working on the idea that drugs that can mimic the biochemical and biological factors rendering certain people resilient to factors such as severe or chronic stress may have a future in depression treatment  a drug is now being tested that in preliminary trials has helped to reduce postpartum depression  other researchers have been studying the ability to help women resist depression in the perinatal period through hormone treatments  or  in other work  via treatments that target the maternal immune system  which may be implicated in a subset of postpartum depression  research has begun to see if administering certain strains of bacteria in depressed individuals might give a boost to their immune system and help reduce depression symptoms  trying to alleviate depression via changes in diet – e g   a mediterranean diet  in one recent study – or omega 3  “fish oil”  supplements is the subject of other foundation supported research  yet another path that may lead to better outcomes in the future is bright light therapy  which was first used to help people with seasonal affective disorder  it may have wider applications  it is also important to note research by grantees that has suggested the ability of even a short course of talk therapy to help alleviate depression in mothers with major depression  while at the same time helping their children  such therapy worked best when it focused on the mother’s relationship with her child  the research revealed 
+</A> 
+<Q>can brain scans guide treatment for depression</Q>
+ <A>brain imaging has confirmed the biological nature of many psychiatric illnesses over the past twenty years  yvette sheline  m d   in the mid 1990s  used functional magnetic resonance imaging  fmri  to identify structural brain changes in depressed patients and established depression as a brain disease 
+using positron emission tomography  pet  scan images  dr  helen mayberg of the icahn school of medicine at mount sinai  identified  in 2013  specific brain activity that can potentially predict whether people with major depressive disorder will best respond to an antidepressant medication or psychotherapy  this important new work offers a first potential imaging biomarker for treatment selection  a team of researchers including narsad grantee stefan g  hoffman  ph d   of boston university and frida e  polli  ph d   of massachusetts institute of technology have used brain imaging to predict the success of cognitive behavioral therapy  a specific type of talk therapy often used to help treat a wide range of mental illnesses including anxiety disorders  depression  and schizophrenia   research by dr  conor liston of weill cornell medical school  and colleagues  has used brain scans to identify four distinct “biotypes” of depression  strikingly  patients in one of these four categories were about three times more likely to respond to a noninvasive treatment known as transcranial magnetic stimulation  tms  than patients in two of the other categories  this is a good example of the power that biomarkers can have in the years just ahead to help direct people with depression to treatments most likely to help them 
+</A>  
+<Q>why have researchers so far failed to identify common gene mutations that contribute to risk for major depression</Q>
+<A> variations in genes – different kinds of dna mutations  both common and rare – have been solidly linked to a number of serious psychiatric disorders including schizophrenia  bipolar disorder and autism  it is reasonable to wonder why similar progress has not been made yet in the study of the genetic factors contributing to depression  researchers have made many attempts to search for such factors  but have not come up with results that statisticians consider “statistically meaningful ” one way of explaining the issue in studying depression concerns that very large number of people whom it affects  the power of massive genomic studies of patients  who are compared with unaffected individuals  evaporates if the people being compared have similar illnesses that have very different underlying genetic profiles  people with major depression might be grouped according to sex  whether or not they have recurrent depression  age at onset  symptom patterns  whether or not they were abused or under chronic stress early in life  for example  there is very good reason for progress on the genetic front  however  foundation grantee patrick sullivan  m d  and others have had success in finding the first reliable signals of commonly seen genetic variations in people with schizophrenia  to do so  they need to assemble a patient sample  across continents  numbering in the tens of thousands  they founded the psychiatric genomic consortium to accomplish this  pgc scientists estimate that the inflection point in depression studies may be 75 000 to 100 000 study participants  a goal the pgc is working toward  it’s not that there is no genetic signal in depression  in other words  it’s a question of assembling a well documented sample of patients of sufficient size to “tease out” the embedded genetic “signals ” which will point toward risk genes for the illness 
+</A> 
+<Q>how to tell if you have depression</Q>
+ <A>depression affects people in different ways and can cause a wide variety of symptoms 
+
+they range from lasting feelings of unhappiness and hopelessness  to losing interest in the things you used to enjoy and feeling very tearful  many people with depression also have symptoms of anxiety 
+
+there can be physical symptoms too  such as feeling constantly tired  sleeping badly  having no appetite or sex drive  and various aches and pains 
+
+the symptoms of depression range from mild to severe  at its mildest  you may simply feel persistently low in spirit  while severe depression can make you feel suicidal  that life is no longer worth living 
+
+most people experience feelings of stress  anxiety or low mood during difficult times  a low mood may improve after a short period of time  rather than being a sign of depression 
+</A> 
+<Q>when to see a doctor</Q>
+<A> it s important to seek help from a gp if you think you may be depressed 
+
+many people wait a long time before seeking help for depression  but it s best not to delay  the sooner you see a doctor  the sooner you can be on the way to recovery 
+</A> 
+<Q>what causes depression</Q>
+ <A>sometimes there s a trigger for depression  life changing events  such as bereavement  losing your job or giving birth  can bring it on 
+
+people with a family history of depression are more likely to experience it themselves  but you can also become depressed for no obvious reason 
+</A> 
+<Q>how can depression be treated</Q>
+<A> treatment for depression can involve a combination of lifestyle changes  talking therapies and medicine  your recommended treatment will be based on whether you have mild  moderate or severe depression 
+
+if you have mild depression  your doctor may suggest waiting to see whether it improves on its own  while monitoring your progress  this is known as  watchful waiting   they may also suggest lifestyle measures such as exercise and self help groups 
+
+talking therapies  such as cognitive behavioural therapy  cbt   are often used for mild depression that is not improving  or moderate depression  antidepressants are also sometimes prescribed 
+
+for moderate to severe depression  a combination of talking therapy and antidepressants is often recommended  if you have severe depression  you may be referred to a specialist mental health team for intensive specialist talking treatments and prescribed medicine 
+</A> 
+<Q>how to live with depression</Q>
+<A> many people with depression benefit by making lifestyle changes  such as getting more exercise  cutting down on alcohol  giving up smoking and eating healthily 
+
+reading a self help book or joining a support group are also worthwhile  they can help you gain a better understanding about what causes you to feel depressed  sharing your experiences with others in a similar situation can also be very supportive 
+</A> 
+<Q>what are the symptoms of clinical depression</Q>
+<A> the symptoms of depression can be complex and vary widely between people  if you re depressed  you may feel sad  hopeless and lose interest in things you used to enjoy 
+
+the symptoms persist for weeks or months and are bad enough to interfere with your work  social life and family life 
+
+there are many other symptoms of depression and you re unlikely to have all of those listed on this page 
+
+psychological symptoms
+the psychological symptoms of depression include 
+
+continuous low mood or sadness
+feeling hopeless and helpless
+having low self esteem
+feeling tearful
+feeling guilt ridden
+feeling irritable and intolerant of others
+having no motivation or interest in things
+finding it difficult to make decisions
+not getting any enjoyment out of life
+feeling anxious or worried
+having suicidal thoughts or thoughts of harming yourself
+
+physical symptoms
+the physical symptoms of depression include 
+
+moving or speaking more slowly than usual
+changes in appetite or weight  usually decreased  but sometimes increased 
+constipation
+unexplained aches and pains
+lack of energy
+low sex drive  loss of libido 
+changes to your menstrual cycle
+disturbed sleep – for example  finding it difficult to fall asleep at night or waking up very early in the morning
+
+social symptoms
+the social symptoms of depression include 
+
+avoiding contact with friends and taking part in fewer social activities
+neglecting your hobbies and interests
+having difficulties in your home  work or family life
+</A> 
+<Q>what are the severities of depression</Q>
+ <A>depression can often come on gradually  so it can be difficult to notice something is wrong  many people try to cope with their symptoms without realising they re unwell  it can sometimes take a friend or family member to suggest something is wrong 
+
+doctors describe depression by how serious it is 
+
+mild depression – has some impact on your daily life
+moderate depression – has a significant impact on your daily life
+severe depression – makes it almost impossible to get through daily life  a few people with severe depression may have psychotic symptoms 
+</A> 
+<Q>what is the difference between grief and depression</Q>
+<A> it can be difficult to distinguish between grief and depression  they share many of the same characteristics  but there are important differences between them 
+
+grief is an entirely natural response to a loss  while depression is an illness 
+
+people who are grieving find their feelings of sadness and loss come and go  but they re still able to enjoy things and look forward to the future 
+
+in contrast  people who are depressed constantly feel sad  they find it difficult to enjoy anything or be positive about the future 
+</A> 
+<Q>what are the other types of depression</Q> 
+<A> there are different types of depression  and some conditions where depression may be one of the symptoms  these include 
+
+postnatal depression – sometimes new mothers  fathers or partners develop depression after they have a baby  this is known as postnatal depression and it s treated in a similar way to other types of depression  with talking therapies and antidepressant medicines 
+bipolar disorder – also known as  manic depression   in bipolar disorder there are spells of both depression and excessively high mood  mania   the depression symptoms are similar to clinical depression  but the bouts of mania can include harmful behaviour  such as gambling  going on spending sprees and having unsafe sex 
+seasonal affective disorder  sad  – also known as  winter depression   sad is a type of depression with a seasonal pattern usually related to winter 
+</A> 
+<Q>when to seek help</Q>
+ <A>see a gp if you experience symptoms of depression for most of the day  every day  for more than 2 weeks 
+
+a low mood may improve after a short time 
+</A> 
+<Q>what are the causes of clinical depression</Q>
+<A> there s no single cause of depression  it can occur for a variety of reasons and it has many different triggers 
+
+for some people  an upsetting or stressful life event  such as bereavement  divorce  illness  redundancy and job or money worries  can be the cause 
+
+different causes can often combine to trigger depression  for example  you may feel low after being ill and then experience a traumatic event  such as a bereavement  which brings on depression 
+
+people often talk about a  downward spiral  of events that leads to depression  for example  if your relationship with your partner breaks down  you re likely to feel low  you may stop seeing friends and family and you may start drinking more  all of this can make you feel worse and trigger depression 
+
+some studies have also suggested that you re more likely to get depression as you get older  and that it s more common in people who live in difficult social and economic circumstances 
+
+stressful events
+most people take time to come to terms with stressful events  such as bereavement or a relationship breakdown  when these stressful events occur  your risk of becoming depressed is increased if you stop seeing your friends and family and try to deal with your problems on your own 
+
+personality
+you may be more vulnerable to depression if you have certain personality traits  such as low self esteem or being overly self critical  this may be because of the genes you ve inherited from your parents  your early life experiences  or both 
+
+family history
+if someone in your family has had depression in the past  such as a parent or sister or brother  it s more likely that you ll also develop it 
+
+giving birth
+some women are particularly vulnerable to depression after pregnancy  the hormonal and physical changes  as well as the added responsibility of a new life  can lead to postnatal depression 
+
+loneliness
+feelings of loneliness  caused by things such as becoming cut off from your family and friends can increase your risk of depression 
+
+alcohol and drugs
+when life is getting them down  some people try to cope by drinking too much alcohol or taking drugs  this can result in a spiral of depression  
+
+cannabis can help you relax  but there s evidence that it can also bring on depression  particularly in teenagers 
+
+ drowning your sorrows  with a drink is also not recommended  alcohol affects the chemistry of the brain  which increases the risk of depression 
+
+illness
+you may have a higher risk of depression if you have a longstanding or life threatening illness  such as coronary heart disease or cancer 
+
+head injuries are also an often under recognised cause of depression  a severe head injury can trigger mood swings and emotional problems 
+
+some people may have an underactive thyroid  hypothyroidism  resulting from problems with their immune system  in rarer cases  a minor head injury can damage the pituitary gland  which is a pea sized gland at the base of your brain that produces thyroid stimulating hormones 
+
+this can cause a number of symptoms  such as extreme tiredness and a lack of interest in sex  loss of libido   which can in turn lead to depression 
+</A> 
+<Q>how can clinical depression be diagnosed</Q>
+<A> if you experience symptoms of depression for most of the day  every day for more than 2 weeks  you should seek help from a gp 
+
+it s particularly important to speak to a gp if you 
+
+have symptoms of depression that are not improving
+find your mood affects your work  other interests  and relationships with your family and friends
+have thoughts of suicide or self harm
+sometimes  when you re depressed it can be difficult to imagine that treatment can actually help  but the sooner you seek treatment  the sooner your depression will improve 
+
+there are no physical tests for depression  but a gp may examine you and carry out some urine or blood tests to rule out other conditions that have similar symptoms  such as an underactive thyroid 
+
+the main way a gp will tell if you have depression is by asking you questions about your general health and how the way you re feeling is affecting you mentally and physically 
+
+try to be as open and honest as you can be with your answers  describing your symptoms and how they re affecting you will help the gp determine whether you have depression and how severe it is 
+
+any discussion you have with a gp will be confidential  this rule will only ever be broken if there s a significant risk of harm to either yourself or others  and if informing a family member or carer would reduce that risk 
+</A> 
+<Q>how can clinical depression be treated</Q>
+<A> treatment for depression usually involves a combination of self help  talking therapies and medicines 
+
+the treatment recommended will be based on the type of depression you have 
+
+mild depression
+if you have mild depression  the following treatments may be recommended 
+
+wait and see
+if a gp diagnoses you with mild depression  they may suggest waiting a short time to see if it gets better by itself  in this case  you ll be seen again by the gp after 2 weeks to monitor your progress  this is known as watchful waiting 
+
+exercise
+there s evidence that exercise can help depression  and it s one of the main treatments for mild depression  you may be referred to a group exercise class 
+
+find out more about walking for health and exercise for depression 
+
+self help
+talking through your feelings can be helpful  you could talk to a friend or relative  or you could ask a gp or local talking therapies service if there are any self help groups for people with depression in your area 
+
+you could try self help books or online cognitive behavioural therapy  cbt  
+
+mild to moderate depression
+if you have mild to moderate depression that is not improving  or moderate depression  you may find a talking therapy helpful 
+
+there are different types of talking therapies for depression  including cognitive behavioural therapy  cbt  and counselling 
+
+a gp can refer you for talking treatment  or you can refer yourself directly to an nhs talking therapies service without a referral from a gp 
+
+moderate to severe depression
+if you have moderate to severe depression  the following treatments may be recommended 
+
+antidepressants
+antidepressants are medicines that treat the symptoms of depression  there are many different types of antidepressant 
+
+they have to be prescribed by a doctor  usually for depression that s moderate or severe 
+
+combination therapy
+a gp may recommend that you take a course of antidepressants plus talking therapy  particularly if your depression is quite severe 
+
+a combination of an antidepressant and cbt usually works better than having just one of these treatments 
+
+mental health teams
+if you have severe depression  you may be referred to a mental health team made up of psychologists  psychiatrists  specialist nurses and occupational therapists 
+
+these teams often provide intensive specialist talking treatments as well as prescribed medicine 
+
+talking treatments
+cognitive behavioural therapy  cbt 
+cognitive behavioural therapy  cbt  aims to help you understand your thoughts and behaviour  and how they affect you 
+
+cbt recognises that events in your past may have shaped you  but it concentrates mostly on how you can change the way you think  feel and behave in the present 
+
+it teaches you how to overcome negative thoughts – for example  being able to challenge hopeless feelings 
+
+cbt is available on the nhs for people with depression or any other mental health problem it s been shown to help 
+
+if cbt is recommended  you ll usually have a session with a therapist once a week or once every 2 weeks 
+
+the course of treatment usually lasts for between 5 and 20 sessions  with each session lasting 30 to 60 minutes 
+
+in some cases  you may be offered group cbt 
+
+online cbt
+online cbt is a type of cbt delivered through a computer  rather than face to face with a therapist 
+
+you ll have a series of weekly sessions and should receive support from a healthcare professional 
+
+interpersonal therapy  ipt 
+interpersonal therapy  ipt  focuses on your relationships with others and problems you may be having in your relationships  such as difficulties with communication or coping with bereavement 
+
+there s some evidence that ipt can be as effective as antidepressants or cbt  but more research is needed 
+
+psychodynamic psychotherapy
+in psychodynamic  psychoanalytic  psychotherapy  a psychoanalytic therapist will encourage you to say whatever is going through your mind 
+
+this will help you become aware of hidden meanings or patterns in what you do or say that may be contributing to your problems 
+
+counselling
+counselling is a form of therapy that helps you think about the problems you re experiencing in your life so you can find new ways of dealing with them 
+
+counsellors support you in finding solutions to problems  but do not tell you what to do  you can talk in confidence to a counsellor  who supports you and offers practical advice 
+
+on the nhs  you may be offered a single session of counselling  a short course of sessions over a few weeks or months  or a longer course that lasts for several months or years 
+
+it s ideal for people who are generally healthy but need help coping with a current crisis  such as anger  relationship issues  bereavement  redundancy  infertility or a serious illness 
+
+getting help
+see a gp for more information about accessing nhs talking treatments  they can refer you for local talking treatments for depression 
+
+you also have the option of self referral  this means that if you prefer not to talk to a gp  you can go directly to an nhs talking therapies service 
+
+antidepressants
+antidepressants are medicines that treat the symptoms of depression  there are many different types available 
+
+most people with moderate or severe depression benefit from antidepressants  but not everybody does  
+
+you may respond to 1 antidepressant but not to another  and you may need to try 2 or more treatments before you find one that works for you 
+
+the different types of antidepressant work about as well as each other  but side effects vary between different treatments and people 
+
+when you start taking antidepressants  you should see a gp or specialist nurse every week or 2 for at least 4 weeks to assess how well they re working 
+
+if they re working  you ll need to continue taking them at the same dose for at least 4 to 6 months after your symptoms have eased 
+
+if you have had episodes of depression in the past  you may need to continue to take antidepressants for up to 5 years or more 
+
+antidepressants are not addictive  but you may get some withdrawal symptoms if you stop taking them suddenly or you miss a dose 
+
+selective serotonin reuptake inhibitors  ssris 
+if a gp thinks you d benefit from taking an antidepressant  you ll usually be prescribed a modern type called a selective serotonin reuptake inhibitor  ssri  
+
+examples of commonly used ssri antidepressants are paroxetine  seroxat   fluoxetine  prozac  and citalopram  cipramil  
+
+they help increase the level of a natural chemical in your brain called serotonin  which is thought to be a  good mood  chemical 
+
+ssris work just as well as older antidepressants and have fewer side effects  although they can cause nausea  headaches  a dry mouth and problems having sex  but these side effects usually improve over time 
+
+some ssris are not suitable for children and young people under 18 years of age  research shows that the risk of self harm and suicidal behaviour may increase if they re taken by under 18s 
+
+fluoxetine is the only ssri that can be prescribed for under 18s and  even then  only when a specialist has given the go ahead 
+
+tricyclic antidepressants  tcas 
+tricyclic antidepressants  tcas  are a group of antidepressants used to treat moderate to severe depression 
+
+tcas  including imipramine  imipramil  and amitriptyline  have been around for longer than ssris 
+
+they work by raising the levels of the chemicals serotonin and noradrenaline in your brain  these both help lift your mood  
+
+they re generally quite safe  but it s a bad idea to smoke cannabis if you re taking tcas because it can cause your heart to beat rapidly 
+
+side effects of tcas vary from person to person but may include a dry mouth  blurred vision  constipation  problems passing urine  sweating  feeling lightheaded and excessive drowsiness 
+
+the side effects usually ease within 10 days as your body gets used to the medicine 
+
+vortioxetine
+vortioxetine  brintellix or lundbeck  is recommended by the national institute for health and care excellence  nice  for treating adults who are having a first or recurrent major depressive episode  if the current episode has not responded to 2 other antidepressants 
+
+common side effects associated with vortioxetine include abnormal dreams  constipation  diarrhoea  dizziness  itching  nausea and vomiting 
+
+other antidepressants
+new antidepressants  such as venlafaxine  efexor   duloxetine  cymbalta or yentreve  and mirtazapine  zispin soltab   work in a slightly different way from ssris and tcas 
+
+venlafaxine and duloxetine are known as serotonin noradrenaline reuptake inhibitors  snris   like tcas  they change the levels of serotonin and noradrenaline in your brain 
+
+studies have shown that an snri can be more effective than an ssri  but they re not routinely prescribed because they can lead to a rise in blood pressure 
+</A> 
+<Q>what are some withdrawal symptoms when you stop taking antidepressants</Q>
+<A> antidepressants are not addictive in the same way that illegal drugs and cigarettes are  but you may have some withdrawal symptoms when you stop taking them 
+
+these include 
+
+an upset stomach
+flu like symptoms
+anxiety
+dizziness
+vivid dreams at night
+sensations in the body that feel like electric shocks
+in most cases  these are quite mild and last no longer than 1 or 2 weeks  but occasionally they can be quite severe 
+
+they seem to be most likely to occur with paroxetine  seroxat  and venlafaxine  efexor  
+
+withdrawal symptoms occur very soon after stopping the tablets so are easy to distinguish from symptoms of depression relapse  which tend to occur after a few weeks 
+</A> 
+<Q>what are other treatments for depression</Q>
+<A> mindfulness
+mindfulness involves paying closer attention to the present moment  and focusing on your thoughts  feelings  bodily sensations and the world around you to improve your mental wellbeing 
+
+the aim is to develop a better understanding of your mind and body  and learn how to live with more appreciation and less anxiety 
+
+mindfulness is recommended by nice as a way of preventing depression in people who have had 3 or more bouts of depression in the past 
+
+st john s wort
+st john s wort is a herbal treatment that some people take for depression  it s available from health food shops and pharmacies 
+
+there s some evidence that it may help mild to moderate depression  but it s not recommended by doctors 
+
+this is because the amount of active ingredients varies among individual brands and batches  so you can never be sure what sort of effect it ll have on you 
+
+taking st john s wort with other medicines  such as anticonvulsants  anticoagulants  antidepressants and the contraceptive pill  can also cause serious problems 
+
+you should not take st john s wort if you re pregnant or breastfeeding  as we do not know for sure that it s safe 
+
+also  st john s wort can interact with the contraceptive pill  reducing its effectiveness 
+
+brain stimulation
+brain stimulation is sometimes used to treat severe depression that has not responded to other treatments 
+
+electromagnetic currents can be used to stimulate certain areas of the brain to try to improve the symptoms of depression 
+
+there are a number of different types of brain stimulation that can be used to treat depression 
+
+these include 
+
+transcranial direct current stimulation  tdcs 
+repetitive transcranial magnetic stimulation  rtms 
+electroconvulsive therapy  ect 
+vagus nerve stimulation
+the mental health charity mind has more information on brain stimulation 
+
+lithium
+if you have tried several different antidepressants and there s been no improvement  your doctor may offer you a medicine called lithium in addition to your current treatment 
+
+there are 2 types  lithium carbonate and lithium citrate  both are usually effective  but if you re taking one that works for you  it s best not to change 
+
+if the level of lithium in your blood becomes too high  it can become toxic  you ll therefore need blood tests every 3 months to check your lithium levels while you re on the medicine 
+
+you ll also need to avoid eating a low salt diet because this can also cause the lithium to become toxic  ask a gp for advice about your diet 
+</A> 
+<Q>what are some steps you can take to help your recovery from depression</Q>
+<A> taking your medicine
+it s very important to take your antidepressants as prescribed  even if you start to feel better  if you stop taking them too soon  your depression could return 
+
+talk to a doctor or pharmacist if you have any questions or concerns about the medicine you re taking  the leaflet that comes with your medicine will have information about possible interactions with other medicines or supplements 
+
+check with a doctor first if you plan to take any over the counter remedies such as painkillers  or any nutritional supplements  these can sometimes interfere with antidepressants 
+
+diet and exercise
+exercise and a healthy diet can make a significant difference to how quickly you recover from depression  both will improve your general health as well 
+
+a healthy diet can help lift your mood  in fact  eating healthily seems to be just as important for maintaining your mental health as it is for preventing physical health problems 
+
+research suggests that exercise may be as effective as antidepressants at reducing the symptoms of depression 
+
+being physically active can lift your mood  reduce stress and anxiety  encourage the release of endorphins  your body s feel good chemicals  and improve self esteem  exercising may also be a good distraction from negative thoughts  and it can improve social interaction 
+
+mindfulness
+it can be easy to rush through life without stopping to notice much  paying more attention to the present moment – to your own thoughts and feelings  and to the world around you – can improve your mental wellbeing  some people call this awareness  mindfulness   and you can take steps to develop it in your own life 
+
+the national institute for health and care excellence  nice  recommends  mindfulness based cognitive therapy  for people who are currently well but have experienced 3 or more previous episodes of depression  it may help prevent a future episode of depression 
+
+talking about it
+sharing a problem with someone else or with a group can give you support and an insight into your own depression  research shows that talking can help people recover from depression and cope better with stress 
+
+you may not feel comfortable about discussing your mental health and sharing your distress with others  if this is the case  writing about how you feel or expressing your emotions through poetry or art are other ways to help your mood 
+
+smoking  drugs and alcohol
+if you have depression it may be tempting to smoke or drink to make you feel better  cigarettes and alcohol may seem to help at first  but they make things worse in the long run 
+
+be extra cautious with cannabis  you might think it s harmless  but research has shown a strong link between cannabis use and mental illness  including depression 
+
+the evidence shows that if you smoke cannabis you 
+
+make your depression symptoms worse
+feel more tired and uninterested in things
+are more likely to have depression that relapses earlier and more frequently
+will not have as good a response to antidepressant medicines
+are more likely to stop using antidepressant medicines
+are less likely to fully recover
+a gp can give you advice and support if you drink or smoke too much or use drugs 
+
+you may also find the following pages useful 
+
+stop smoking
+getting help for drug addiction
+alcohol support
+
+work and finances
+if your depression is caused by working too much or if it s affecting your ability to do your job  you may need time off to recover 
+
+however  there s evidence to suggest that taking prolonged time off work can make depression worse  there s also quite a bit of evidence to support that going back to work can help you recover from depression 
+
+it s important to avoid too much stress  and this includes work related stress  if you re employed  you may be able to work shorter hours or work in a more flexible way  particularly if job pressures seem to trigger your symptoms 
+
+under the equality act 2010  all employers must make reasonable adjustments to make the employment of people with disabilities possible  this can include people who ve been diagnosed with a mental illness 
+
+if you re unable to work as a result of your depression  you may be eligible for a range of benefits  depending on your circumstances  these include 
+
+statutory sick pay
+incapacity benefit
+disability living allowance
+attendance allowance
+carer s allowance
+council tax benefit
+housing benefit
+</A> 
+<Q>how can you look after someone with depression</Q>
+<A> it s not just the person with depression who s affected by their illness  the people close to them are also affected 
+
+if you re caring for someone with depression  your relationship with them and family life in general can become strained  you may feel at a loss as to what to do  finding a support group and talking to others in a similar situation might help 
+
+if you re having relationship or marriage difficulties  it might help to contact a relationship counsellor who can talk things through with you and your partner 
+
+men are less likely to ask for help than women and are also more likely to turn to alcohol or drugs when depressed 
+</A> 
+<Q>how can you cope with bereavement</Q>
+<A> losing someone close to you can be a trigger for depression 
+
+when someone you love dies  the sense of loss can be so powerful that you feel it s impossible to recover  however  with time and the right help and support  it s possible to start living your life again 
+</A> 
+<Q>what are the warning signs that someone with depression may be considering suicide</Q>
+<A> the majority of suicide cases are linked with mental disorders  and most of them are triggered by severe depression 
+
+warning signs that someone with depression may be considering suicide include 
+
+making final arrangements  such as giving away possessions  making a will or saying goodbye to friends
+talking about death or suicide – this may be a direct statement  such as  i wish i was dead   but often depressed people will talk about the subject indirectly  using phrases like  i think dead people must be happier than us  or  wouldn t it be nice to go to sleep and never wake up 
+self harm  such as cutting their arms or legs  or burning themselves with cigarettes
+a sudden lifting of mood  which could mean that a person has decided to attempt suicide and feels better because of this decision
+contact a gp as soon as possible if you re feeling suicidal or are in the crisis of depression  they ll be able to help you 
+
+if you cannot or do not want to contact a gp  call the samaritans on 116 123  the helpline is open 24 hours a day  365 days a year   you can also email jo samaritans org 
+</A> 
+<Q>how can you help a suicidal friend or relative</Q>
+<A> if you see any of the above warning signs in a friend or relative 
+
+get professional help for them
+let them know they are not alone and you care about them
+offer support in finding other solutions to their problems
+if you feel there s an immediate danger  stay with the person or have someone else stay with them  and remove all available means of attempting suicide  such as medicine 
+
+over the counter medicine  such as painkillers  can be just as dangerous as prescription medicine  also  remove sharp objects and poisonous household chemicals such as bleach 
+</A> 
+<Q>how to find depression support groups</Q>
+<A> visit the mind website for information about support groups in your area 
+
+if you re a carer and affected by depression  ring the carers uk helpline on 0808 808 7777 to find out how to meet other carers 
+
+or you can ask your gp or your local talking therapies service about depression support groups in your area 
+</A> 
+<Q>what happens at a support group</Q>
+<A> sitting and talking isn t the only thing that happens at meetings  lots of groups organise social events and arrange special activities to help boost your mood and improve your wellbeing 
+
+going to a group for the first time can be daunting  but you can be sure of a warm welcome  people will understand how hard it can be to take that first step 
+</A> 
+<Q>what are some steps you can take to improve your mental health and wellbeing</Q>
+<A> evidence suggests there are 5 steps you can take to improve your mental health and wellbeing  trying these things could help you feel more positive and able to get the most out of life 
+
+1  connect with other people
+good relationships are important for your mental wellbeing  they can 
+
+help you to build a sense of belonging and self worth
+give you an opportunity to share positive experiences
+provide emotional support and allow you to support others
+there are lots of things you could try to help build stronger and closer relationships 
+if possible  take time each day to be with your family  for example  try arranging a fixed time to eat dinner together
+
+arrange a day out with friends you have not seen for a while
+
+try switching off the tv to talk or play a game with your children  friends or family
+
+have lunch with a colleague
+
+visit a friend or family member who needs support or company
+
+volunteer at a local school  hospital or community group  find out how to volunteer on the gov uk website
+
+make the most of technology to stay in touch with friends and family  video chat apps like skype and facetime are useful  especially if you live far apart
+
+2  be physically active
+being active is not only great for your physical health and fitness  evidence also shows it can also improve your mental wellbeing by 
+
+raising your self esteem
+helping you to set goals or challenges and achieve them
+causing chemical changes in your brain which can help to positively change your mood
+
+do 
+read about running and aerobic exercises to help get you moving and improve your fitness
+
+read about strength and flexibility exercises to increase muscle strength  improve balance and reduce joint pain
+
+if you re a wheelchair user  read fitness advice for wheelchair users
+
+3  learn new skills
+research shows that learning new skills can also improve your mental wellbeing by 
+
+boosting self confidence and raising self esteem
+helping you to build a sense of purpose
+helping you to connect with others
+even if you feel like you do not have enough time  or you may not need to learn new things  there are lots of different ways to bring learning into your life 
+
+some of the things you could try include 
+try learning to cook something new  find out about eating a healthy  balanced diet
+
+try taking on a new responsibility at work  such as mentoring a junior staff member or improving your presentation skills
+
+work on a diy project  such as fixing a broken bike  garden gate or something bigger  there are lots of free video tutorials online
+
+consider signing up for a course at a local college  you could try learning a new language or a practical skill such as plumbing
+
+try new hobbies that challenge you  such as writing a blog  taking up a new sport or learning to paint
+
+4  give to others
+research suggests that acts of giving and kindness can help improve your mental wellbeing by 
+
+creating positive feelings and a sense of reward
+giving you a feeling of purpose and self worth
+helping you connect with other people
+it could be small acts of kindness towards other people  or larger ones like volunteering in your local community 
+
+some examples of the things you could try include 
+
+saying thank you to someone for something they have done for you
+asking friends  family or colleagues how they are and really listening to their answer
+spending time with friends or relatives who need support or company
+offering to help someone you know with diy or a work project
+volunteering in your community  such as helping at a school  hospital or care home
+5  pay attention to the present moment  mindfulness 
+paying more attention to the present moment can improve your mental wellbeing  this includes your thoughts and feelings  your body and the world around you 
+
+some people call this awareness  mindfulness   mindfulness can help you enjoy life more and understand yourself better  it can positively change the way you feel about life and how you approach challenges 
+</A> 
+<Q>what are some other types of depression support</Q>
+ <A>attending a group and talking to other people who have experienced depression isn t for everyone 
+
+there are other kinds of peer support that can help you cope with depression 
+
+online forums for depression
+you can visit online forums where you can read about other people s experiences or write about your own and respond to other postings  visit the sane website 
+
+togetherall is an online service for people who have common  distressing mental health problems 
+
+through social networking  a community of people are supported by trained  wall guides  so they can manage their own mental health 
+
+online forums aren t for everyone  depression uk has a penfriend scheme for members 
+
+this is especially useful for people who don t have internet access or prefer letters and postcards to email 
+
+pursuing your interests
+being with other people who share your interests can also help you feel better 
+
+you can use the internet or local newspapers to look up classes or activities in your area you might enjoy 
+
+volunteering
+lots of people experience feelings of hopelessness and low self esteem when they re depressed 
+
+helping other people by doing voluntary work is a good way of feeling useful and valued  there are all sorts of ways you can volunteer 
+
+time banks are an innovative way of volunteering your time and skills  you offer your skills in return for credits  which you can then use to  buy  someone else s services 
+
+for example  you could offer 3 hours of gardening and  in exchange  receive a 1 hour language lesson and a 2 hour beauty treatment from other members 
+</A> 
+<Q>what do i do if the support doesn’t help</Q>
+ <A>it can be difficult to find the things that will help you  as different things help different people  it’s important to be open to a range of approaches and to be committed to finding the right help and to continue to be hopeful  even when some things don’t work out 
+</A> 
+<Q>can you prevent mental health problems</Q>
+<A> we can all suffer from mental health challenges  but developing our wellbeing  resilience  and seeking help early can help prevent challenges becoming serious 
+</A> 
+<Q>are there cures for mental health problems</Q>
+<A> it is often more realistic and helpful to find out what helps with the issues you face  talking  counselling  medication  friendships  exercise  good sleep and nutrition  and meaningful occupation can all help 
+</A> 
+<Q>what causes mental health problems</Q>
+<A> challenges or problems with your mental health can arise from psychological  biological  and social  issues  as well as life events 
+</A> 
+<Q>what do i do if i’m worried about my mental health</Q>
+<A> the most important thing is to talk to someone you trust  this might be a friend  colleague  family member  or gp  in addition to talking to someone  it may be useful to find out more information about what you are experiencing  these things may help to get some perspective on what you are experiencing  and be the start of getting help 
+</A> 
+<Q>how do i know if i’m unwell</Q>
+<A> if your beliefs   thoughts   feelings or behaviours have a significant impact on your ability to function in what might be considered a normal or ordinary way  it would be important to seek help 
+</A> 
+<Q>what should i do if i’m worried about a friend or relative</Q>
+<A> this may depend on your relationship with them  gently encouraging someone to seek appropriate support would be helpful to start with 
+</A> 
+<Q>how do i deal with someone telling me what to do</Q>
+<A> some people may advise you on good evidence of what works with the best of intentions  but it’s important to find out what works best for you 
+</A> 
+<Q>how do i care for someone with depression</Q>
+ <A>many people with depression may not be willing to open up about what they’re going through or seek treatment  this is due to the overwhelming levels of stigma around the illness  as a person caring for someone with depression  you need to be mindful of the number of challenges the other is faced with  as a caregiver  you can—
+educate yourself about the illness—the signs  how they present  treatment options available 
+
+be sensitive to its symptoms  and don’t respond in a way that is stigmatizing 
+
+be more understanding  supportive and caring 
+
+speak and listen in an empathetic and non judgemental manner 
+
+encourage open communication between yourself and your loved one with depression 
+
+be watchful for signs of self harm or comments contemplating suicide 
+
+encourage exercise and other activities that can help the person return to their previous functional levels 
+
+be there  and care for yourself to avoid caregiver burnout 
+
+know your limits and be realistic about how much time you can dedicate to caregiving 
+
+join support groups consisting of other caregivers to help cope and manage with the challenges that come with caregiving 
+</A> 
+<Q>when can i stop taking medication that i have been prescribed</Q>
+<A> you must never stop your medication without consulting a psychiatrist  otherwise this may have an adverse effect on your brain  once you no longer  require medication  your psychiatrist will safely wean you off them  most mental illnesses are treated with medication only temporarily to manage symptoms  there are exceptions such as bipolar disorder and schizophrenia where medication might be used for much longer periods of time 
+</A> 
+<Q>does medication make you emotionally numb</Q>
+ <A>another common concern is that psychiatric medication numbs down emotions  there are multiple side effects that can arise from taking psychiatric medication  if your medication is making you feel numb or causing other side effects like insomnia or low libido  you must get in touch with your psychiatrist so that the prescription can be amended  the medication is to help you get better  your feelings and comfort are of utmost importance 
+</A> 
+<Q>what are antidepressants</Q>
+<A> primarily  antidepressants are medication prescribed by psychiatrists to relieve symptoms of depression  psychiatrists also prescribe antidepressants for relieving symptoms of different types of anxiety disorders  depending on the severity  it s also used sometimes to treat illnesses such as ocd 
+before prescribing medication  the psychiatrist assesses the severity of your illness and decides whether it warrants medication or not  the psychiatrist might consider prescribing antidepressants when the symptoms experienced are 
+
+significantly affecting the ability to function or cope with daily life and
+
+experienced over a long period of time
+</A> 
+<Q>what to expect if i have been prescribed antidepressants</Q>
+<A> antidepressants take time to act  it may take 1 3 weeks before you begin to start feeling better  and at least 6 8 weeks before you feel the full benefit of the medication  also  antidepressants work best in combination with psychotherapy or counselling  
+</A> 
+<Q>are there any side effects of taking antidepressants</Q>
+ <A>some of the common side effects of antidepressants are sleepiness or fatigue  headaches  dry mouth  nausea  queasiness in the stomach and weight gain  most of these side effects wear off over a couple of weeks  but it’s important that you discuss these side effects with your general physician or psychiatrist 
+</A> 
+<Q>can i get addicted to antidepressants</Q>
+ <A>substances of addiction tend to create a need to increasingly consume them to a point where it affects the person’s life  but antidepressants are not addictive  discontinuing medication all of a sudden might make you feel jittery or uncomfortable for a few days but these feelings usually tend to go away  however  if the symptoms reappear  it is an indication that the illness has not resolved completely  it is not because you were addicted to the medication 
+</A> 
+<Q>can i consume alcohol while on antidepressant treatment</Q>
+<A> consuming alcohol when you are on antidepressants is not recommended  alcohol is a depressant itself and can intoxicate you faster  also  alcohol can counteract the benefits of antidepressants and may worsen your symptoms  therefore  it’s best to avoid consuming alcohol when on antidepressant treatment 
+</A> 
+<Q>can i substitute antidepressants with exercise</Q>
+<A> exercise in general is a good practice for a healthy living  regular exercise helps in boosting your mood and alleviating symptoms  of mental health issues   studies show that people who exercise regularly benefit in many spheres of their lives 
+for mild symptoms of depression and anxiety  exercise can be beneficial  but if you are experiencing moderate to severe symptoms  then in addition to medication  the treating psychiatrist will recommend exercising regularly  following a good diet and having a balanced lifestyle 
+</A> 
+<Q>what are the specific questions i need to ask my psychiatrist when on antidepressants</Q>
+ <A>antidepressants produce subjective results  there is no ‘one size fits all’  therefore  everyone experiences the effect of the medication differently 
+below are a few aspects that you need to ask your psychiatrist when on antidepressant treatment 
+
+some antidepressants have specific side effects  so you could ask if the antidepressant prescribed has any side effects that you need to look out for 
+
+one of the common side effect of antidepressants is either nausea or queasiness in the stomach  therefore  it is worthwhile to know if the medication can be taken on an empty stomach or it needs to be taken with food or after food 
+
+if you are taking medications for any other health concerns such as diabetes  hypertension  cholesterol etc  you may want to know if that particular medication might interact with the antidepressant prescribed 
+
+women who are on antidepressants and planning for pregnancy should discuss the impact it can have on the baby 
+
+it is necessary for mothers who are on antidepressants and breastfeeding to discuss with the general physician or psychiatrist on the effects of the medication on the baby 
+</A> 
+<Q>when can i stop taking antidepressants</Q>
+ <A>when on medication  the psychiatrist will ask you to come for follow up meetings at regular intervals to understand the effectiveness of the medication  if you have been taking a particular dosage of antidepressant over a period of time and experiencing the full benefit of the medication  your psychiatrist may consider tapering the medication  while doing so  if at any time you feel the symptoms are resurfacing  then it is important to inform your psychiatrist immediately  therefore  it is best to discuss the options with your psychiatrist before taking the decision to come off antidepressants  stopping medication abruptly is not recommended 
+</A> 
+<Q>who can prescribe antidepressants</Q>
+<A> antidepressants are usually prescribed by psychiatrists  they can also be prescribed by a medical doctor of any speciality such as general physicians and neurologists  mental health professionals such as psychologists  psychotherapists and social workers provide counseling and therapy but cannot prescribe medication 
+</A> 
+<Q>who is at risk of depression</Q>
+ <A>depression can affect anyone 
+females are more likely to suffer from depression than males  however  depression affects males as well 
+some of the risk factors that increase the likelihood of developing depression 
+having a family member with depression
+stressful life events 
+adverse childhood experiences 
+certain medical conditions may increase risk for depression  for example  stroke  multiple sclerosis  hiv 
+</A> 
+<Q>what is the difference between depression and sadness</Q>
+ <A>experiencing sadness at one time or another is part of the normal human experience  however  depression is more than the occasional sadness that people experience  when an individual suffers from depression  the sadness tends to be more pervasive or long lasting  and can be accompanied by one or more of the following  decreased interest in pleasurable activities  feelings of hopelessness  low self worth  excessive guilt  decrease in energy  concentration difficulties  appetite changes  sleep difficulty or excessive sleep  headaches  body aches and pains  and or thoughts of suicide 
+</A> 
+<Q>can depression affect physical health</Q>
+ <A>mental health and physical health are closely inter related  depression is linked with changes in the brain  additionally  depression can increase risk for medical conditions such as cardiovascular disease  stroke  type 2 diabetes  alzheimer’s disease  osteoporosis  migraine  chronic depression can also increase the risk of obesity 
+studies show that major depressive disorder may increase risk for cardiovascular disease  on the other hand  depression may emerge after a myocardial infarction  as a first episode or as a recurrent one 
+similarly  studies show that depression may increase risk for diabetes  and diabetes may increase the risk of depression  depressive disorders in people who have diabetes  can lower adherence to diabetes treatment  and can increase the likelihood of ‘poor glycemic control’ and complications from diabetes 
+</A> 
+<Q>does depression affect older adults</Q>
+ <A>depression can affect the elderly as well  in fact  it is often missed in the elderly  elderly with chronic health conditions and related impairment in functioning may be at greater risk of depression  depression among elderly ranges from 1  to 5  for those living in the community  and is about 11 5    13 5  among elderly who are hospitalized and elderly requiring home healthcare respectively 
+</A> 
+<Q>can depression affect children</Q>
+ <A>just like adults  children can suffer from depression that significantly impairs their social  academic and or other domains of functioning 
+</A> 
+<Q>what is postpartum depression</Q>
+ <A>when feelings of sadness  low mood  or emptiness after the birth of the baby are significant and persists for 2 weeks or longer  postpartum depression may be present  it may be accompanied by hopelessness  crying spells  decrease in interest or motivation  worthlessness  decreased energy  thoughts of suicide  thoughts of hurting the baby  lack of interest in the baby  sleep difficulty or excessive sleep  appetite increase or decrease  and or concentration  memory difficulties  postpartum depression can affect both the mother and the baby in various  significant ways  timely treatment is important 
+</A> 
+<Q>is depression treatable</Q>
+<A> there are effective treatments for depression which have been established through research  many treatments for depression have been around for years  many people ignore signs of depression despite experiencing significant suffering  this may be due to stigma  lack of awareness  and or barriers to accessing care  untreated depression confers several risks  discussing your concerns about depression with your doctor can often be the first step in getting professional help 
+</A> 
+<Q>what are the risks of untreated depression</Q>
+<A> untreated depression can increase risk of depressive episodes becoming more frequent  prolonged and or severe over time and increase risk of suicide  it can significantly interfere with one’s functioning at work  school  and or in interpersonal relationships  depression can also increase risk of alcohol and or substance use disorders  additionally  depression can worsen the course and outcome of chronic medical conditions  such as diabetes  cardiovascular disease  and others 
+</A> 
+<Q>what are some of the treatments for depression</Q>
+ <A>psychotherapy and medications are the most commonly used treatments for depressive disorders  for mild to moderate depression  psychotherapy is generally thought to be the first line treatment  for moderate to severe depression  a combination of medications and psychotherapy is often considered  for severe depression that has not responded to multiple trials of medications and psychotherapy  electroconvulsive therapy  ect   transcranial magnetic stimulation  tms  may be some of the treatment options  the type of treatment that is suitable for an individual depends on an individual’s specific clinical situation 
+</A> 
+<Q>what are other psychiatric conditions that can co exist with depression</Q>
+<A> anxiety disorders and substance use disorders are some of the psychiatric conditions commonly found co existing with major depressive disorder  other psychiatric conditions too  such as posttraumatic stress disorder  ptsd   eating disorders  can co occur with depression 
+</A> 
+<Q>how common is depression</Q>
+
+<A> about 4  of the population has what we call major depressive disorder  the most severe kind of depression  at any one time  less severe depressions are probably more common  it is important to note that everyone gets a low mood at times  but most pull out of this within a couple of days 
+</A> 
+<Q>what are the major symptoms of depression</Q>
+
+<A> common symptoms of more severe depressions include depressed mood  of course    appetite changes — either increased or decreased  sleep changes — either more sleep such as taking naps after sleeping all night  or decreased sleep  decreased motivation to do things and decreased enjoyment of things that usually are enjoyable is also very common 
+
+anxiety and depression seem to go together so many people notice an increase in worries and feeling like they can’t stop thinking about things that are problems  others might notice that the depressed individual is very negative about almost everything  even things that most people would see as positives 
+
+of course  we worry a lot about suicidal ideation  if someone has suicidal thoughts  it is vitally important that they tell someone they trust  call a suicide hotline or their physician and get assistance  depressions will always go away with treatment eventually and it is tragic when someone ends their life when treatment may have been lifesaving 
+</A> 
+<Q>how might other aspects of your health deteriorate as a result of depression  is this common  what do people usually struggle with  sleep  diet  hygiene</Q>
+
+ <A>individuals who are depressed are often not so motivated to engage in healthy activities or any activities for that matter  taking medication becomes difficult  similarly  because of poor motivation  they can neglect diet and hygiene  sleep difficulties are a symptom of major depressive disorder and so people can have poor motivation and be tired — not a good combination 
+
+as important  negativity goes along with being sad  depressed individuals tend to see the worst and assume the worst about everything  common thoughts are   my medication won’t help    what’s the use of doing anything   and so on  we see people end up in a downward spiral in which everything they do that might be helpful is discounted and everything that is negative further reinforces the negativity 
+</A> 
+<Q>how can therapy and medication help with depression  what has research found about these treatment methods for depression  are they effective</Q>
+
+<A> about 70  of people treated with medications will improve and some will have total resolution of symptoms  therapy is also very effective and has the added benefit of helping you develop better coping skills when stress becomes a problem or depression reoccurs  the combination of medication and therapy is probably even better  the therapies we know most about in terms of effectiveness are cognitive behavioral therapy  insight oriented therapy and dialectical behavioral therapy  all are good 
+</A> 
+<Q>if you love someone with depression  why is it important to know if these symptoms are getting worse for them  how might that indicate how you should act  what should you do if you notice that a loved one s depression symptoms are worsening</Q>
+
+ <A>the biggest risk is suicide  if you notice someone else or yourself getting worse  it is important to ask them about this and ask about whether they are thinking about ending their life  the most important thing is to be sure they are safe and get them help  over a life time 10 15  of people with major depressive disorder commit suicide so this is a disorder that can be lethal 
+</A> 
+<Q>how can you tell if someone is considering suicide and how can you intervene  what should you do if you fear this</Q>
+
+ <A>if you are worried  you should always ask  asking someone if they are thinking about ending their life  as hard as that may be to do  is not going to make someone more likely to do anything  in fact  it may be lifesaving  if you believe someone is highly at risk  get help  get them to an emergency room  your local community mental health center or call their physicians office  don’t let them be alone 
+</A> 
+<Q>how should you encourage your loved one to seek help for their depression  what are some examples of things to say or do</Q>
+
+ <A>empathy is always useful  let them know you know this is difficult  it is often a good thing to point out that they are not alone in this and that other people also struggle with the same issues  suggesting they get help is done out of concern for them and trying to support them  if you are not the best person to talk with them  find that person or people they will listen to 
+</A> 
+ 
+ <Q> is depression a mental illness   </Q> 
+ <A> yes  clinical depression is a serious  but treatable  mental illness  it is a medical condition  not a personal weakness 
+it is also very common  major depression is a clinical syndrome that affects about 6 7  of the u s  population over age 18  according to the national institute of mental health  some estimate that major depression may be as high as 15   everybody at one point or another will feel sadness as a normal reaction to loss  grief  or injured self esteem  but clinical depression  called  major depressive disorder  or  major depression  by doctors  is a serious medical illness that needs professional diagnosis and treatment   </A> 
+ <Q> do children get depression  </Q>  
+ <A> yes  children are subject to the same factors that cause depression in adults  these include  a change in physical health  life events  heredity  or inheritance  environment  and chemical disturbance in the brain  it is estimated that 2 5  of children in the u s  suffer from depression  in adolescents  it is estimated to be 4  to 8  
+depression in children is different from the  normal  blues and everyday emotions that are typical in children of various ages  children who are depressed experience changes in their behavior that are persistent and disruptive to their normal lifestyle  usually interfering with relationships with friends  schoolwork  special interests  and family life  it may also occur at the same time as  or be hidden by  attention deficit hyperactivity disorder  adhd   obsessive compulsive disorder  ocd   or conduct disorder  cd     </A> 
+ <Q> can a lack of sleep cause depression  </Q> 
+ <A> no  lack of sleep alone cannot cause depression  but it does play a role  lack of sleep resulting from another medical illness or the presence of personal problems can intensify depression  chronic inability to sleep is also an important clue that someone may be depressed 
+common triggers of depression include 
+family history of depression 
+an abnormal reaction over the loss of a loved one through death  divorce  or separation 
+interpersonal disputes 
+physical  sexual  or emotional abuse 
+major life events such as moving  graduating or retiring  etc 
+serious illness  major  chronic  and terminal illnesses often contribute to depression  these include cancer  heart disease  stroke  hiv  parkinson s disease  and others 
+substance abuse  street drugs or heavy alcohol use can cause mood changes that mimic depression or other mood disorders  in addition  some people with substance abuse problems also may have depression  bipolar disorder  or other mood problems even when they are not using mood altering substances 
+being socially isolated or excluded from family  friends  or other social groups    </A>  
+ <Q> are there any alternatives to the traditional treatments for depression that i can try  </Q>  
+ <A> alternative therapy describes any treatment or technique that has not been extensively scientifically documented or identified as safe or effective for a specific condition  alternative therapy involves a variety of disciplines that include everything from diet to mental conditioning and lifestyle changes  some of these have been found to be effective for treating depression  
+exercise  sometimes considered an alternative treatment  has gained increasing evidence for its ability to treat mild to moderate forms of depression  
+examples of alternative therapies include acupuncture  guided imagery  chiropractic care  yoga  hypnosis  biofeedback  aromatherapy  relaxation  herbal remedies  massage  and many others  if you are interested in trying any of these options  talk to your doctor    </A>  
+ <Q> how can you determine if an illness is causing depression or depression is causing an illness  </Q> 
+ <A> illnesses that can lead to depression are usually major  chronic  and or terminal  when an illness is causing depression  there is often long term pain or physical disability present or there is a sudden change in lifestyle 
+depression causes illness in a different way  like psychological stress  it can weaken the immune system  cells involved in fighting disease and keeping you healthy   allowing a person to get more colds or the flu  there is often a notable presence of  aches and pains  with no particular cause  having depression may also cause the symptoms of another medical illness to last longer and intensify its symptoms  but the true relationship of depression induced illness  in terms of major disease  has not been thoroughly defined 
+it is important to seek the advice of your doctor if you think you or someone you know may have depression  your primary care doctor is a good place to start  they can screen you for depression and develop a treatment plan to help manage your symptoms    </A> 
+<Q> i ve heard lots of warnings about drug interactions with certain depression medicines  what are they  </Q> 
+ <A> maois  or monoamine oxidase inhibitors  are effective antidepressant medicines that have been used for years  typically prescribed for people with severe depression  maois improve mood by increasing the number of chemicals in the brain that pass messages between brain cells  they have proven to work just as well as  if not better than  other antidepressant drugs  but they have more possible food and drug interactions 
+medicines to avoid when taking maois include all ssris  a group of antidepressants that includes paxil and  prozac  and certain pain medicines  including demerol and tramadol  there are also some cough medicines  decongestants  and blood pressure medicines that should not be taken with maois  foods to avoid when taking maois include aged cheeses and meats  pickled or smoked foods like sauerkraut or meat  and aged or fermented foods such as soy sauce or tap beer  it is important to tell your doctor about any medicines you are currently taking  be sure to discuss the limitations  interactions  and possible side effects of maois   </A>  
+ <Q> why are women more likely to get depression  </Q> 
+ <A> women develop depression twice as often as men  one reason may be the various changes in hormone levels that women experience  for example  depression is common during pregnancy and menopause  as well as after giving birth  suffering a miscarriage  or having a hysterectomy    these are all times when women experience huge fluctuations in hormones  premenstrual syndrome  pms  and premenstrual dysphoric disorder  pmdd   an extreme form of pms  may also cause depression    </A> 
+ <Q> do most people with depression attempt to commit suicide  </Q> 
+ <A> no  most people who suffer from depression do not attempt suicide  but according to mental health america  30  70  of suicide victims have suffered from some form of depression  this figure demonstrates the importance of seeking professional treatment for yourself or someone you love if you suspect depression    </A> 
+ <Q> will someone who has had depression get it again  </Q> 
+ <A> having experienced an episode of major depression does put a person at greater risk for future episodes  but not everyone who has recovered from depression will experience it again  sometimes depression is triggered by a major life event  illness  or a combination of factors particular to a certain place and time  depression can also occur for no obvious   reason   getting the proper treatment for the correct amount of time is crucial to recovery and in helping prevent or identify any future depression    </A> 
+ <Q> how long does depression last  </Q> 
+ <A> if left untreated  various types of depressive disorders can last for months or sometimes years  a major depressive episode is characterized by a set of symptoms that typically lasts for a few months 
+seasonal depression  or sad  usually extends throughout the winter months and continues to improve during spring and summer 
+bipolar disorder is characterized as  ups   periods of mania  and  downs   periods of extreme depression   though these phases may change rapidly or slowly  bipolar depression may last until an effective treatment is found 
+dysthymia  commonly referred to as persistent depressive disorder  is a mild and sometimes less recognizable form of depression that lasts for 2 years or more in adults  it disrupts quality of life and may lead to major depression if left untreated     </A>  
+ <Q> who gets depression  </Q>  
+ <A> depression can affect people of all ages  races  ethnicities  and genders 
+women are diagnosed with depression more often than men  but men can also be depressed  because men may be less likely to recognize  talk about  and seek help for their feelings or emotional problems  they are at greater risk of depression symptoms being undiagnosed or undertreated 
+studies also show higher rates of depression and an increased risk for the disorder among members of the lgbtqia  community    </A> 
+ <Q> what are the risk factors for depression  </Q>  
+ <A> depression is one of the most common mental disorders in the united states  research suggests that genetic  biological  environmental  and psychological factors play a role in depression 
+depression can happen at any age  but it often begins in adulthood  depression is now recognized as occurring in children and adolescents  although children may express more irritability than sadness  many chronic mood and anxiety disorders in adults begin as high levels of anxiety in childhood 
+depression  especially in midlife or older age  can co occur with other serious medical illnesses  such as diabetes  cancer  heart disease  and parkinson’s disease  these conditions are often worse when depression is present  and research suggests that people with depression and other medical illnesses tend to have more severe symptoms of both illnesses  the centers for disease control and prevention  cdc   has also recognized that having certain mental disorders  including depression and schizophrenia  can make people more likely to get severely ill from covid 19 
+sometimes a physical health problem  such as thyroid disease  or medications taken for a physical illness cause side effects that contribute to depression  a health care provider experienced in treating these complicated illnesses can help work out the best treatment strategy  learn more about getting help and finding a health care provider 
+other risk factors for depression include 
+personal or family history of depression
+major negative life changes  trauma  or stress   </A> 
+ <Q> how can i find help for depression  </Q> 
+ <A> if you think you may have depression  start by making an appointment to see a health care provider  this could be your primary care provider  a psychiatrist  psychologist  or social worker  or another provider who specializes in diagnosing and treating mental health conditions  find tips to help prepare for and get the most out of your visit and information about getting help 
+once you enter treatment  you should gradually start to feel better  here are some other things you can do outside of treatment that may help you or a loved one during treatment for depression 
+try to get physical activity  just 30 minutes a day of walking can boost your mood 
+try to maintain a regular bedtime and wake up time 
+eat regular  healthy meals 
+break up large tasks into small ones  do what you can as you can  decide what must get done and what can wait 
+try to connect with people  talk with people you trust about how you are feeling 
+delay making important decisions  such as getting married or divorced  or changing jobs until you feel better  discuss decisions with people who know you well 
+avoid using alcohol  nicotine  or drugs  including medications not prescribed for you    </A> 
+ <Q> how can i find a clinical trial for depression </Q>  
+ <A> clinical trials are research studies that look at new ways to prevent  detect  or treat diseases and conditions  including depression  the goal of a clinical trial is to determine if a new test or treatment works and is safe  although people may benefit from being part of a clinical trial  they should know that the primary purpose is to gain new scientific knowledge so that others can be better helped in the future 
+researchers at nimh and around the country conduct many studies with patients with depression and healthy volunteers  we have new and better treatment options today because of what clinical trials have uncovered  talk to a health care provider about clinical trials  their benefits and risks  and whether one is right for you 
+to learn more or find a study  visit 
+clinical trials – information for participants  information about clinical trials  why people might take part in a clinical trial  and what people might experience during a clinical trial
+clinicaltrials gov  current studies on depression   list of clinical trials funded by the national institutes of health  nih  being conducted across the country
+join a study  depression—adults  list of studies currently recruiting adults with depression being conducted on the nih campus in bethesda  md
+join a study  depression—children  list of studies currently recruiting children with depression being conducted on the nih campus in bethesda  md
+join a study  perimenopause related mood disorders  list of studies on perimenopause related mood disorders being conducted on the nih campus in bethesda  md
+join a study  postpartum depression  list of studies on postpartum depression being conducted on the nih campus in bethesda  md   </A>  
+ <Q> what do i need to tell my doctor  </Q> 
+ <A> write down any symptoms you’ve had
+write down key personal information
+make a list of all medications you are taking
+write down questions to ask your doctor
+take a family member or friend along
+discuss all of your symptoms with your doctor and describe how they are affecting your
+life  e g  inability to get out of bed and get to work school   your doctor can suggest or provide appropriate therapy  make sure to discuss all of the available treatments and medications and their benefits and side effects before making any decisions    </A>  
+<Q> what are the things i need to do to get well   </Q> 
+ <A> stick to your treatment plan  don’t skip psychotherapy sessions  even if you’re feeling well  continue to take medication as prescribed 
+learn about depression empower yourself by learning about your condition 
+pay attention to the warning signs  find out what triggers your depression  make a plan so that you know what to do if your symptoms get worse  contact your doctor or therapist if you notice any changes  ask friends or family to watch out for warning signs 
+get exercise  physical activity may help reduce the symptoms of
+depression  consider walking  jogging  swimming  gardening  or any other physical activity 
+maintain
+an adequate diet  the canada food guide is a useful reference in helping you choose how to eat well  choose more protein and omega 3  and fewer simple carbohydrates 
+avoid alcohol and illicit drugs  it may seem like they lessen your problems  but in the long run  they generally worsen symptoms and make the depression harder to treat 
+get adequate sleep  this is especially important  if you’re having trouble sleeping  talk to your doctor about what you can do    </A> 
+
+
